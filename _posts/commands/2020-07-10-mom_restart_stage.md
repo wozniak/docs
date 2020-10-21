@@ -16,6 +16,8 @@ Optionally takes a stage, or both stage and track parameters, with the default t
 
 This command will reset the timer if the desired stage and track is not the one the player is currently on.
 
+Deliberately does nothing in the tricksurf gamemode.
+
 ## Usage Examples
 
 > `mom_restart_stage`

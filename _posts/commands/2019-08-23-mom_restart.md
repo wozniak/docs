@@ -11,6 +11,8 @@ safeguard: mom_run_safeguard_restart
 
 Restarts the player to the start trigger. Optionally takes a track number (default is main track).
 
+In the tricksurf gamemode this teleports the player back to their currently tracked trick, if there is any.
+
 ## Usage Examples
 
 > `mom_restart -1`
