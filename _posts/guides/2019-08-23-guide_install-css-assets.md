@@ -28,7 +28,8 @@ This will take a while, depending on your internet connection.
 
 # Mounting the CS:S assets
 1. Copy the `cstrike` folder from whereever the server is installed to (in this example the `css` directory) to `MomentumDev`
-2. Open the `momentum/gameinfo.txt` file and add a line somewhere in the `SearchPaths` section with the content
+2. Open the `momentum/gameinfo.txt` file and the following line somewhere in the `SearchPaths` section
+
 ```game+mod                            |all_source_engine_paths|cstrike/cstrike_pak_dir.vpk```
 
 This will add mount the CS:S assets to the game
